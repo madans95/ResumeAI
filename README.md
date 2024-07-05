@@ -6,7 +6,7 @@ The project is a MEAN project and uses node version 18.
 
 # Azure Security and Monitoring
 ## Containerize the application
-# Backend
+## Backend
 ```
 git clone https://github.com/madans95/ResumeAI.git backend
 ```
@@ -20,24 +20,24 @@ GMAIL_PASS="PASSWORD USED BY NODEMAILER"
 FRONT_END="URL FOR FRONTEND"
 ```
 Run the below command to containerize the application backend.
-
+```
 docker build -t backend .
+```
 image image
 
-backend container
-
-image
-
-Frontend
+## Frontend
+```
 git clone https://github.com/UnpredictablePrashant/ResumeAI frontend
+```
 Run the below command to containerize the application backend.
-
+```
 docker build -t frontend .
+```
 frontend container
 
 image
 
-Azure Dashboard
+## Azure Dashboard
 Home > Dashboard
 
 image
@@ -56,8 +56,8 @@ In same manner add other tiles like memory utilisation and disk utilisation
 
 image
 
-Backend Dashboard
+## Backend Dashboard
 image
 
-Full Dashboard
+## Full Dashboard
 image
