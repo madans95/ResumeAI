@@ -4,7 +4,7 @@
 
 The project is a MEAN project and uses node version 18.
 
-# Azure-Security-and-Monitoring
+# Azure Security and Monitoring
 ## Containerize the application
 # Backend
 ```
