@@ -12,7 +12,7 @@ git clone https://github.com/madans95/ResumeAI.git backend
 ```
 Create a .env file with the following fields
 ```
-JWT_SECRET_KEY="SECRETKEY"
+JWT_SECRET_KEY="MYREALLYSECRETKEY"
 MONGO_URL="mongodb://MONGO_URL"
 OPENAI_KEY="OPENAI_API_KEY"
 GMAIL_USER="THIS EMAIL IS USED TO SEND RESUMES"
