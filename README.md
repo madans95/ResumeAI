@@ -36,19 +36,17 @@ frontend container
 ![image](https://github.com/madans95/ResumeAI/assets/49802479/0b934a2f-e72c-453e-88d7-892b60139cf0)
 
 ## Azure Dashboard
-Home > Dashboard
+
 
 ![image](https://github.com/madans95/ResumeAI/assets/49802479/c7a05fb0-1d9c-4fe5-bccc-477a0c3eb1e5)
 
-Add a tile in the dashboard that will be Metric Chart
+Add a tile in the dashboard
 
 ![image](https://github.com/madans95/ResumeAI/assets/49802479/e3c8d37a-56a5-42f3-aa89-8271e01033d7)
 
-Edit the mertic
 
 ![image](https://github.com/madans95/ResumeAI/assets/49802479/631d5478-aa51-4b78-9ed6-eaffa0d021ba)
 
-In same manner add other tiles like memory utilisation and disk utilisation
 
 ![image](https://github.com/madans95/ResumeAI/assets/49802479/4a4763c7-fbb2-46da-98b6-1842c39da585)
 
