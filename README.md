@@ -25,7 +25,7 @@ docker build -t backend .
 ```
 ## Frontend
 ```
-git clone https://github.com/UnpredictablePrashant/ResumeAI frontend
+git clone https://github.com/madans95/ResumeAI.git frontend
 ```
 Run the below command to containerize the application backend.
 ```
