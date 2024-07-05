@@ -33,31 +33,30 @@ docker build -t frontend .
 ```
 frontend container
 
-image
 ![image](https://github.com/madans95/ResumeAI/assets/49802479/0b934a2f-e72c-453e-88d7-892b60139cf0)
-
 
 ## Azure Dashboard
 Home > Dashboard
 
-image
+![image](https://github.com/madans95/ResumeAI/assets/49802479/c7a05fb0-1d9c-4fe5-bccc-477a0c3eb1e5)
 
 Add a tile in the dashboard that will be Metric Chart
 
-image
+![image](https://github.com/madans95/ResumeAI/assets/49802479/e3c8d37a-56a5-42f3-aa89-8271e01033d7)
 
 Edit the mertic
 
-image
-
-image
+![image](https://github.com/madans95/ResumeAI/assets/49802479/631d5478-aa51-4b78-9ed6-eaffa0d021ba)
 
 In same manner add other tiles like memory utilisation and disk utilisation
 
-image
+![image](https://github.com/madans95/ResumeAI/assets/49802479/cba5cdcd-c070-43f0-981a-75eb2308686f)
 
 ## Backend Dashboard
-image
+
+![image](https://github.com/madans95/ResumeAI/assets/49802479/dfbc0cf6-69f0-4a4e-a2a9-5d1d12b3c053)
 
 ## Full Dashboard
-image
+
+![image](https://github.com/madans95/ResumeAI/assets/49802479/e78c561e-fb28-40e6-bfc7-d76a5920d817)
+
