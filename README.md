@@ -50,7 +50,7 @@ Edit the mertic
 
 In same manner add other tiles like memory utilisation and disk utilisation
 
-![image](https://github.com/madans95/ResumeAI/assets/49802479/cba5cdcd-c070-43f0-981a-75eb2308686f)
+![image](https://github.com/madans95/ResumeAI/assets/49802479/4a4763c7-fbb2-46da-98b6-1842c39da585)
 
 ## Backend Dashboard
 
