@@ -23,8 +23,6 @@ Run the below command to containerize the application backend.
 ```
 docker build -t backend .
 ```
-image image
-
 ## Frontend
 ```
 git clone https://github.com/UnpredictablePrashant/ResumeAI frontend
@@ -36,6 +34,8 @@ docker build -t frontend .
 frontend container
 
 image
+![image](https://github.com/madans95/ResumeAI/assets/49802479/0b934a2f-e72c-453e-88d7-892b60139cf0)
+
 
 ## Azure Dashboard
 Home > Dashboard
