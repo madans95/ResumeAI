@@ -8,16 +8,17 @@ The project is a MEAN project and uses node version 18.
 ## Containerize the application
 # Backend
 ```
-git clone https://github.com/UnpredictablePrashant/ResumeAI backend
+git clone https://github.com/madans95/ResumeAI.git backend
 ```
 Create a .env file with the following fields
-
-JWT_SECRET_KEY="MYREALLYSECRETKEY"
+```
+JWT_SECRET_KEY="SECRETKEY"
 MONGO_URL="mongodb://MONGO_URL"
 OPENAI_KEY="OPENAI_API_KEY"
 GMAIL_USER="THIS EMAIL IS USED TO SEND RESUMES"
 GMAIL_PASS="PASSWORD USED BY NODEMAILER"
 FRONT_END="URL FOR FRONTEND"
+```
 Run the below command to containerize the application backend.
 
 docker build -t backend .
